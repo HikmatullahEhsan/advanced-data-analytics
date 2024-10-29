@@ -1,0 +1,6 @@
+EmployeeID,EmployeeName,Department,JoiningDate,Salary,Gender,Country,PerformanceScore,JobSatisfaction
+E001,James Wilson,Sales,2022-01-15,50000,Male,USA,85,4
+E002,Maria Garcia,Engineering,2021-03-12,75000,Female,UK,92,5
+E003,Robert Brown,HR,2020-06-23,60000,Male,Canada,88,4
+E004,Emily Davis,Engineering,2021-11-05,72000,Female,USA,79,3
+E005,Michael Johnson,Marketing,2022-05-20,65000,Male,Australia,83,4
