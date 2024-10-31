@@ -1,0 +1,6 @@
+TransactionID,CustomerID,CustomerName,Date,ProductID,ProductName,Category,Quantity,PricePerUnit,TotalAmount,PaymentMethod,Country
+T001,C001,Alice Smith,2024-10-01,P101,Wireless Headphones,Electronics,1,50,50,Credit Card,United States
+T002,C002,John Doe,2024-10-02,P202,Leather Wallet,Accessories,2,25,50,PayPal,United Kingdom
+T003,C001,Alice Smith,2024-10-03,P303,Yoga Mat,Fitness,1,20,20,Debit Card,United States
+T004,C003,Sarah Brown,2024-10-03,P404,Bluetooth Speaker,Electronics,1,75,75,Credit Card,Canada
+T005,C004,Daniel Green,2024-10-04,P101,Wireless Headphones,Electronics,3,50,150,Credit Card,Australia
